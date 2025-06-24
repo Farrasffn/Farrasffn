@@ -8,12 +8,19 @@
 🔭 I’m currently exploring the world of data analytics and data science, actively 🌱 learning and building a solid foundation in statistics, data visualization, and machine learning, while working on personal projects to apply what I’ve learned. 💡 Eager to grow, collaborate, and contribute in real-world data challenges.
 </p>
 
-<h3 align="left">Lets Connect!</h3>
+<h3 align="left">Let's Connect!</h3>
 <p align="left">
-<a href="mailto:farrasworks@gmail.com" target="_blank"><img src="https://github.com/user-attachments/assets/0154d8ef-a0ac-42de-b316-5f3d48c3237d" alt="farrasworks@gmail.com" width="50" height="40" /></a>
-<a href="https://linkedin.com/in/farrasfadhilah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrasfadhilah1" height="30" width="40" /></a>
-<a href="https://instagram.com/fcy_frs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcy_frs" height="30" width="40" /></a>
+  <a href="mailto:farrasworks@gmail.com" target="_blank">
+    <img align="center" src="https://github.com/user-attachments/assets/0154d8ef-a0ac-42de-b316-5f3d48c3237d" alt="Gmail" width="40" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/farrasfadhilah1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/fcy_frs" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&show_icons=true&local=en&theme=tokyonight" alt="farrasffn" /></p>
 
