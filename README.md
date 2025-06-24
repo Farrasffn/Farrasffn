@@ -14,4 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&show_icons=true&local=en&theme=tokyonight" alt="farrasffn" /></p>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farrasffn&show_icons=truelocal=en&theme=tokyonight&layout=compact" alt="farrasffn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farrasffn&show_icons=truelocal=en&theme=tokyonight" alt="farrasffn" /></p>
