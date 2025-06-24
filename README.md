@@ -10,7 +10,7 @@
 
 <h3 align="left">Lets Connect!</h3>
 <p align="left">
-<a href="mailto:farrasworks@gmail.com" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/0154d8ef-a0ac-42de-b316-5f3d48c3237d" alt="farrasworks@gmail.com" width="30" height="40" /></a>
+<a href="mailto:farrasworks@gmail.com" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/0154d8ef-a0ac-42de-b316-5f3d48c3237d" alt="farrasworks@gmail.com" width="45" height="40" /></a>
 <a href="https://linkedin.com/in/farrasfadhilah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrasfadhilah1" height="30" width="40" /></a>
 <a href="https://instagram.com/fcy_frs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcy_frs" height="30" width="40" /></a>
 </p>
