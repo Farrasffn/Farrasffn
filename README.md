@@ -10,8 +10,15 @@
 
 <h3 align="left">Lets Connect!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farrasfadhilah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrasfadhilah1" height="30" width="40" /></a>
-<a href="https://instagram.com/fcy_frs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcy_frs" height="30" width="40" /></a>
+<a href="mailto:farrasworks@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="farrasworks@gmail.com" width="30" height="40" />
+</a>
+<a href="https://linkedin.com/in/farrasfadhilah1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrasfadhilah1" height="30" width="40" />
+</a>
+<a href="https://instagram.com/fcy_frs" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcy_frs" height="30" width="40" />
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&show_icons=true&local=en&theme=tokyonight" alt="farrasffn" /></p>
