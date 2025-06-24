@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, i'm Farras Fadhilah ✨</h1>
+![image](https://github.com/user-attachments/assets/0154d8ef-a0ac-42de-b316-5f3d48c3237d)<h1 align="center">✨ Hi there, i'm Farras Fadhilah ✨</h1>
 
 <h2 align="center">📊 Aspiring Data Professional | 📚 Lifelong Learner in Tech</h2>
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Lets Connect!</h3>
 <p align="left">
-<a href="mailto:farrasworks@gmail.com" target="_blank"><img src="https://pngate.com/wp-content/uploads/2025/03/gmail-logo-main-icon-1.png" alt="farrasworks@gmail.com" width="30" height="40" /></a>
+<a href="mailto:farrasworks@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="farrasworks@gmail.com" width="30" height="40" /></a>
 <a href="https://linkedin.com/in/farrasfadhilah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrasfadhilah1" height="30" width="40" /></a>
 <a href="https://instagram.com/fcy_frs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcy_frs" height="30" width="40" /></a>
 </p>
