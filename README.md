@@ -1,9 +1,4 @@
-#  Hi there 👋
-<h1 align="center">✨ Hi 👋, I'm Farras Fadhilah ✨</h1>
-<!--
-**Farrasffn/Farrasffn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">✨ Hi there, i'm Farras Fadhilah ✨</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +10,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Farrasffn&show_icons=true&theme=tokyonight)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&show_icons=true&local=en&theme=tokyonight" alt="farrasffn" /></p>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farrasffn&show_icons=truelocal=en&theme=tokyonight&layout=compact" alt="farrasffn" /></p>
