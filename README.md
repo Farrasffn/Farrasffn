@@ -7,6 +7,10 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&color=0e75b6&style=flat" alt="farrasffn" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&label=Profile%20views&color=8A63D2&style=flat-square" alt="farrasffn" /></p>
+<p align="left"<img src="https://komarev.com/ghpvc/?username=farrasffn&label=Profile%20views&color=38BDF8&style=flat-square" alt="farrasffn" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&label=PROFILE+VIEWS&color=8A63D2&style=for-the-badge" alt="farrasffn" /></p>
+
 
 
 <h3 align="left">About me :</h3>
