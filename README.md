@@ -2,10 +2,7 @@
 
 <h2 align="center">📊 Aspiring Data Professional | 📚 Lifelong Learner in Tech</h2>
 
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&label=Profile%20Views&color=663399&style=plastic" alt="Profile views" /></p>
-
-
 
 <h3 align="left">About me :</h3>
 
