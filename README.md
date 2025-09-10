@@ -13,7 +13,7 @@
 <h3 align="left">My Contacts :</h3>
 <p align="left">
 <a href="mailto:farrasworks@gmail.com" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" alt="farrasworks@gmail.com" width="30" height="40" /></a>
-<a href="https://linkedin.com/in/farrasfadhilah1" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" alt="farrasfadhilah1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farrasffn" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" alt="farrasfadhilah1" height="30" width="40" /></a>
 <a href="https://instagram.com/fcy_frs" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" alt="fcy_frs" height="30" width="40" /></a>
 </p>
 
