@@ -7,7 +7,7 @@
 <h3 align="left">About me :</h3>
 
 <p align="justify">
-🔭 I’m currently exploring the world of data analytics and data science, actively 🌱 learning and building a solid foundation in statistics, data visualization, and machine learning, while working on personal projects to apply what I’ve learned. 💡 Eager to grow, collaborate, and contribute in real-world data challenges.
+🔭 I’m currently exploring the world of data analytics and data science, actively 🌱 growing and developing a solid foundation in statistics, data visualization, and machine learning, while working on personal projects to apply what I’ve learned. 💡 Eager to grow, collaborate, and contribute in real-world data challenges.
 </p>
 
 <h3 align="left">My Contacts :</h3>
