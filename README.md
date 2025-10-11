@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, i'm Farras ✨</h1>
+<h1 align="center">✨ Hi there, I'm Farras ✨</h1>
 
 <h2 align="center">📊 Aspiring Data Professional | 📚 Lifelong Learner in Tech</h2>
 
