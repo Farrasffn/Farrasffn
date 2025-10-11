@@ -2,13 +2,17 @@
 
 <h2 align="center">📊 Aspiring Data Professional | 📚 Lifelong Learner in Tech</h2>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&label=Profile%20Views&color=663399&style=plastic" alt="Profile views" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&label=Profile%20Views&color=663399&style=flat" alt="Profile views" /></p>
 
 <h3 align="left">About me :</h3>
 
 <p align="justify">
 🔭 I’m currently exploring the world of data analytics and data science, actively 🌱 growing and developing a solid foundation in statistics, data visualization, and machine learning, while working on personal projects to apply what I’ve learned. 💡 Eager to grow, collaborate, and contribute in real-world data challenges.
 </p>
+
+<h3 align="left">🌐 Socials:</h3>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fcy_frs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farrasffn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fcy_frs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farrasworks@gmail.com) 
+
 
 <h3 align="left">My Contacts :</h3>
 <p align="left">
