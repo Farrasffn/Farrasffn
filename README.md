@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, i'm Farras Fadhilah ✨</h1>
+<h1 align="center">✨ Hi there, i'm Farras ✨</h1>
 
 <h2 align="center">📊 Aspiring Data Professional | 📚 Lifelong Learner in Tech</h2>
 
@@ -63,8 +63,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="left">
+<!--<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /></p>
+  -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></p>
 <p align="center">
