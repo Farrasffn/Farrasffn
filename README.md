@@ -4,11 +4,13 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=farrasffn&label=Profile%20Views&color=663399&style=flat" alt="Profile views" /></p>
 
-<h3 align="left">About me :</h3>
+
+<h3 align="left">👩🏻‍💻 About me :</h3>
 
 <p align="justify">
 🔭 I’m currently exploring the world of data analytics and data science, actively 🌱 growing and developing a solid foundation in statistics, data visualization, and machine learning, while working on personal projects to apply what I’ve learned. 💡 Eager to grow, collaborate, and contribute in real-world data challenges.
 </p>
+
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
@@ -27,18 +29,42 @@
 </p>
 
 
-<h3 align="left">My Contacts :</h3>
+<h3 align="left">💻 Tech Stack:</h3>
+
 <p align="left">
-  <a href="mailto:farrasworks@gmail.com" target="_blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" alt="farrasworks@gmail.com" width="30" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/farrasffn" target="blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" alt="farrasfadhilah1" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/fcy_frs" target="blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" alt="fcy_frs" height="30" width="40" />
-  </a>
+  
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+
+<!-- Data & ML Tools -->
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/> 
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/> 
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+
+<!-- Tools & Platforms -->
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+
+<!-- Design -->
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/> 
+
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&show_icons=true&local=en&theme=tokyonight" alt="farrasffn" /></p>
 
