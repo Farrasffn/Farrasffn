@@ -62,16 +62,13 @@
 </p>
 
 📊 GitHub Stats:
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api?username=farrasffn&show_icons=true&local=en&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)" alt="stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="stats" /></p>
 <p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=farrasffn&theme=tokyonight&hide_border=false" alt="stats" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="stats" /></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=farrasffn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=farrasffn&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&show_icons=true&local=en&theme=tokyonight" alt="farrasffn" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farrasffn&show_icons=truelocal=en&theme=tokyonight&layout=compact" alt="farrasffn" /></p>
