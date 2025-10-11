@@ -68,6 +68,8 @@
 <p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=farrasffn&theme=tokyonight&hide_border=false" alt="stats" /></p>
 
 
+
+
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=farrasffn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophies" /></p>
