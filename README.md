@@ -63,13 +63,17 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="stats" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="stats" /></p>
-<p><img align="left" src="https://nirzak-streak-stats.vercel.app/?user=farrasffn&theme=tokyonight&hide_border=false" alt="stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /></p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=farrasffn&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></p>
 
-
+---
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=farrasffn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophies" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farrasffn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" /></p>
