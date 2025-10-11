@@ -63,11 +63,12 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="150" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" style="margin-right: 10px;" />
+<p align="center">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="150" />
+  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrasffn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=farrasffn&theme=tokyonight&hide_border=false" height="150" />
-</div>
+</p>
 
 
 ---
