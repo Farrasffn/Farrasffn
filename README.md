@@ -11,14 +11,33 @@
 </p>
 
 <h3 align="left">🌐 Socials:</h3>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fcy_frs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farrasffn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fcy_frs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farrasworks@gmail.com) 
+<p align="left">
+  <a href="https://linkedin.com/in/farrasffn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/fcy_frs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@fcy_frs" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="mailto:farrasworks@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
 <h3 align="left">My Contacts :</h3>
 <p align="left">
-<a href="mailto:farrasworks@gmail.com" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" alt="farrasworks@gmail.com" width="30" height="40" /></a>
-<a href="https://linkedin.com/in/farrasffn" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" alt="farrasfadhilah1" height="30" width="40" /></a>
-<a href="https://instagram.com/fcy_frs" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" alt="fcy_frs" height="30" width="40" /></a>
+  <a href="mailto:farrasworks@gmail.com" target="_blank">
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" alt="farrasworks@gmail.com" width="30" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/farrasffn" target="blank">
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" alt="farrasfadhilah1" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/fcy_frs" target="blank">
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" alt="fcy_frs" height="30" width="40" />
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=farrasffn&show_icons=true&local=en&theme=tokyonight" alt="farrasffn" /></p>
