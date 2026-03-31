@@ -10,7 +10,7 @@
 <p align="justify">
 🔭 I’m currently exploring the world of data analytics and data science, actively 🌱 growing and developing a solid foundation in statistics, data visualization, and machine learning, while working on personal projects to apply what I’ve learned. 💡 Eager to grow, collaborate, and contribute in real-world data challenges.
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
   <a href="mailto:farrasworks@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">💻 Tech Stack:</h3>
 
@@ -60,6 +60,7 @@
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/> 
 
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
