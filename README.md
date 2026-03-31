@@ -64,7 +64,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrasffn&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"t" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrasffn&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"t" width="95%" />
 </p>
 
 
