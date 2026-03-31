@@ -12,7 +12,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">🌐<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVucmZlMjh2OTd3Z3JqYmpxczUzNDllbWFranZ6aXhvZ3JvdG01NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAF2mItbP7JaVvo7Ra/giphy.gif" width="25"> Socials:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/farrasffn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
